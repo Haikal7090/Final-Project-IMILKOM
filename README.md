@@ -1,2 +1,2 @@
 # Final-Project-IMILKOM
-Repository ini dibuat untuk memenuhu tugas project IT CAMP
+Repository ini dibuat untuk memenuhi tugas project IT CAMP
